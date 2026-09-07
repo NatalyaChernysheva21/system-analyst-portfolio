@@ -1,12 +1,13 @@
 # User Stories и критерии приемки
 
-В этом документе собраны User Stories и критерии приемки для основных функциональных блоков системы STETS.
+В рамках проекта STETS были сформированы User Stories, критерии приемки и сценарии проверки для основных функциональных блоков системы.
+
 
 ### Артефакт в Miro
 
 [Открыть User Stories и критерии приемки в Miro](https://miro.com/welcomeonboard/TkNEbS9nK2ZMUzVWU2srUDRKaWMyTGk0WGRpUDVTb3krNjNsZm9yYm1NU2N1V0o3ZFVvc0VVNENKeExxVFR5S0NDc3ZqTkRkbGxmS083SllhVVBKVzRWajc3ck9BK0RhUkRFSmpWenlnaGNRdUwzY2hpWFNqUFFJU05keFBGK1NzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=551295782567)
 
-В Miro представлено исходное визуальное оформление User Stories и критериев приемки.
+В Miro представлено полное визуальное оформление артефакта: пользовательские истории, критерии приемки и сценарии в формате Дано / Когда / Тогда.
 
 ## Управление аккаунтом
 
